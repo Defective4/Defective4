@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Defective4/Defective4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Something about me
+I like to write some random code, mainly in Java.<br>
+Currently I am interested in learning and implementing Minecraft's protocol, and writing plugins for Spigot and Bukkit.
 
-Here are some ideas to get you started:
+## What am I working on
+For now the only project I am working actively working on is [Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client).<br>
+If you are interested in a custom Minecraft client, or you are looking for simple Minecraft protocol implementation, feel free to check it out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What are my goals
+At the moment I am constantly trying to improve my code, and I am willing to learn to work in team.
+
+## I’m looking to collaborate on ...
+Pretty much anything related to Minecraft protocol, and Spigot/Bukkit plugins.
+
+## How to contact me
+If you ever want to contact me, here is my e-mail address: [def3ctive4@gmail.com](mailto:def3ctive4@gmail.com), however I don't check it very often.<br>
+I prefer receive messages over discord: `+ Defective -#4958`

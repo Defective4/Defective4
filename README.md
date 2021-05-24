@@ -15,4 +15,4 @@ Pretty much anything related to Minecraft protocol, and Spigot/Bukkit plugins.
 
 ## How to contact me
 If you ever want to contact me, here is my e-mail address: [def3ctive4@gmail.com](mailto:def3ctive4@gmail.com), however I don't check it very often.<br>
-I prefer to receive messages over discord: `+ Defective -#4958`
+I prefer to receive messages over discord: `! Defective !#4958`

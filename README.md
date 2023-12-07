@@ -34,6 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/Minecraft-%2362B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spigot-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Minecraft%20Protocol-%23EF323D?style=for-the-badge&logo=mojangstudios&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NMS-%23c75a0b?style=for-the-badge&logo=mojangstudios&logoColor=white)
 
 ### Graphics & 3D
 ![Blockbench](https://img.shields.io/badge/Blockbench-1E93D9?style=for-the-badge&logo=blockbench&logoColor=white)

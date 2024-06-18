@@ -1,1 +1,1 @@
-WIP
+![stats](/github-metrics.svg)

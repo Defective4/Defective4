@@ -1,4 +1,4 @@
-# Hello...
+# Hello ✨
 
 I am Defective, a hobbyist Java developer!
 

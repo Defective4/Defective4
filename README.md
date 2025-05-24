@@ -29,7 +29,7 @@ I am Defective, a hobbyist Java developer!
 - 📡 I'm an amateur radio enthusiast
 - 🎮 I like to play Minecraft and Stardew Valley
 - 🐈‍⬛ I love cats
-- 📆 I'm a fan of all things Retro
+- 📆 I'm a fan of all things retro
 
 ## Contact me
 - Discord (Preferred): [java.net.defective](https://discord.com/users/1014466568484294656)

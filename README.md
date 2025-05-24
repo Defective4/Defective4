@@ -19,8 +19,6 @@ I am Defective, a hobbyist Java developer!
 - Python `⭐`
   - Digital signal processing (GNU Radio)
 
----
-
 ### Other
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,cs,cpp,css,bots,eclipse,git,github,githubactions,html,java,js,linux,maven,mysql,php,raspberrypi,sqlite)](https://skillicons.dev)

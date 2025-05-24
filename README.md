@@ -16,7 +16,7 @@ I am Defective, a hobbyist Java developer!
 - C++ - `⭐⭐`
   - Arduino
   - AVR
-- Python `⭐`
+- Python - `⭐`
   - Digital signal processing (GNU Radio)
 
 ### Other

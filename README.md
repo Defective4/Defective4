@@ -5,15 +5,12 @@ I am Defective, a hobbyist Java developer!
 ## Languages and tools I'm familiar with
 
 - Java (My main language) - `⭐⭐⭐⭐⭐`
-  - Minecraft mods, plugins and bots
-  - Desktop apps
-  - Android apps
 - PHP - `⭐⭐⭐⭐`
 - HTML - `⭐⭐⭐⭐`
 - CSS - `⭐⭐⭐⭐`
 - JavaScript - `⭐⭐⭐`
 - C# - `⭐⭐`
-- C++ - `⭐⭐`
+- C++ - `⭐`
   - Arduino
   - AVR
 - Python - `⭐`

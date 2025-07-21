@@ -18,7 +18,7 @@ I am Defective, a hobbyist Java developer!
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,cs,cpp,css,bots,eclipse,git,github,githubactions,html,java,js,linux,maven,mysql,php,raspberrypi,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,cs,cpp,css,bots,eclipse,git,github,githubactions,html,hibernate,java,js,linux,maven,mysql,php,raspberrypi,spring,sqlite)](https://skillicons.dev)
 
 ## More facts about me
 

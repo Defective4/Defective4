@@ -1,6 +1,8 @@
 # Hello ✨
 
-I am Defective, a hobbyist Java developer!
+I am Defective, a hobbyist Java developer!  
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1014466568484294656?showDisplayName=true&borderRadius=0)](https://discord.com/users/1014466568484294656)
 
 ## Languages and tools I'm familiar with
 

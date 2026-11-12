@@ -1,6 +1,6 @@
 # Hello ✨
 
-I am Defective, a hobbyist Java developer!  
+I'm Defective, a hobbyist Java developer!  
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1014466568484294656?showDisplayName=true&borderRadius=0)](https://discord.com/users/1014466568484294656)
 
@@ -10,6 +10,11 @@ I am Defective, a hobbyist Java developer!
 - 📡 I'm an amateur radio enthusiast
 - 🐈‍⬛ I love cats
 - 📆 I'm a fan of all things retro
+
+## Stuff I'm working on
+- [CubeBabel](https://github.com/Defective4/CubeBabel) - A faithful recreation of the Library of Babel in Minecraft,  
+  and the related [jBabel](https://github.com/Defective4/jBabel) library
+- [OpenWebRX Desktop](https://github.com/Defective4/openwebrx-desktop) - A desktop client for OpenWebRX receivers
 
 ## Contact me
 - Discord (Preferred): [java.net.defective](https://discord.com/users/1014466568484294656)
